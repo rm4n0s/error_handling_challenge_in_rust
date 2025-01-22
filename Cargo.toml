@@ -1,0 +1,8 @@
+[package]
+name = "error_handling_challenge_in_rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+strum_macros = "0.26.4"
